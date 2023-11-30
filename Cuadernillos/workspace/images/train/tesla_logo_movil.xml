@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tesla</folder>
+	<filename>tesla_logo_movil.jpg</filename>
+	<path>C:\Users\X979787\Documentos\object_detection\Cuadernillos\dataset\tesla\tesla_logo_movil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tesla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>238</ymin>
+			<xmax>840</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

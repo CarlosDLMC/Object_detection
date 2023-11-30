@@ -1,0 +1,9 @@
+-Crear entorno virtual
+-Instalar ipykernel
+-python -m ipykernel install --user --name=env
+-Pip install notebook
+-pip install opencv-python
+-pip install --upgrade pyqt5 lxml
+-pip install wget
+-pip install tensorflow --upgrade
+-pip install protobuf matplotlib==3.2

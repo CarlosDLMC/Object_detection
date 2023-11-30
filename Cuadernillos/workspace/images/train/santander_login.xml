@@ -1,0 +1,26 @@
+<annotation>
+	<folder>santander</folder>
+	<filename>santander_login.jpg</filename>
+	<path>C:\Users\X979787\Documentos\object_detection\Cuadernillos\dataset\santander\santander_login.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1593</width>
+		<height>731</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>santander</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>19</ymin>
+			<xmax>777</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

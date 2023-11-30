@@ -1,0 +1,26 @@
+<annotation>
+	<folder>santander</folder>
+	<filename>santander_movil.jpg</filename>
+	<path>C:\Users\X979787\Documentos\object_detection\Cuadernillos\dataset\santander\santander_movil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>santander</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>91</ymin>
+			<xmax>94</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>
